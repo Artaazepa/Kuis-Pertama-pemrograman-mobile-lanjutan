@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Student App</string>
+    <string-array name="programs_array">
+        <item>Manajemen Informatika</item>
+        <item>Teknik Listrik</item>
+        <!-- Tambahkan program lainnya sesuai kebutuhan -->
+    </string-array>
+</resources>
